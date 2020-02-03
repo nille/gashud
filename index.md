@@ -9,3 +9,5 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 [0. Kama muta](misc/kama-muta.md)
 
 [1. Batkid](clips/bat-kid.md)
+
+[2. Nicholas Winton](clips/nicholas-winton.md)
