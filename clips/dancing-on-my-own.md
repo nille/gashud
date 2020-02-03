@@ -4,7 +4,7 @@ id1: 7KFSfqfAMlA
 
 # Dancing on my own
 
-Bara ett hundratal new yorkare som spontant utbrister i Robyns Dancing on my own på 34st Station efter hennes spelning i Madison Square Garden i fjol, inget att se här.
+Bara ett hundratal new york-bor som spontant utbrister i sång och dans till Robyns Dancing on my own på 34st Station efter hennes spelning i Madison Square Garden i fjol, inget att se här.
 
 {% include youtubePlayer.html id=page.id1 %}
 
