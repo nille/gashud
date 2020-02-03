@@ -23,3 +23,5 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 [8. Logic rappar med fans](clips/logic.md)
 
 [9. Run the Jewels ger livsråd till unga tjejer](clips/run-the-jewels.md)
+
+[10. Lara Fabian - Je t'aime](clips/je-taime.md)
