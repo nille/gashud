@@ -24,6 +24,7 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 
 [9. Lara Fabian - Je t'aime](clips/je-taime.md)
 
+[10. Katelyn Ohashi](clips/katelyn-ohashi.md)
 #### Bonusgrejer som jag hade med men strök pga platsade inte riktigt
 
 [Run the Jewels ger livsråd till unga tjejer](clips/run-the-jewels.md)
