@@ -11,3 +11,9 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 [1. Batkid](clips/bat-kid.md)
 
 [2. Nicholas Winton](clips/nicholas-winton.md)
+
+[3. Unsung hero](clips/unsung-hero.md)
+
+[4. Hallelujah](clips/hallelujah.md)
+
+[5. Dancing on my own](clips/dancing-on-my-own.md)
