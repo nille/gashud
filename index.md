@@ -19,3 +19,7 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 [6. A message for humanity](clips/a-message-for-humanity.md)
 
 [7. Hemvändande soldater](clips/soldier-homecoming.md)
+
+[8. Logic rappar med fans](clips/logic.md)
+
+[9. Run the Jewels ger livsråd till unga tjejer](clips/run-the-jewels.md)
