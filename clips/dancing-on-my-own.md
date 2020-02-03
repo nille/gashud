@@ -16,4 +16,4 @@ Fler versioner:
 
 [Från Youtube:](https://www.youtube.com/watch?v=fH5745rZhyA)
 
-### [Tillbaka till listan](/gashud)
+### [◀️ Tillbaka till listan](/gashud)

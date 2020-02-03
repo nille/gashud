@@ -8,4 +8,4 @@ Rufus Wainwright + Hallelujah + 1500 körsångare i en gammal stationsbyggnad ha
 
 {% include youtubePlayer.html id=page.id1 %}
 
-### [Tillbaka till listan](/index)
+### [◀️ Tillbaka till listan](/gashud)

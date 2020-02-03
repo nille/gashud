@@ -8,4 +8,4 @@ Tydligen går det att gråta till en thailändsk reklamfilm för livförskäkrin
 
 {% include youtubePlayer.html id=page.id1 %}
 
-### [Tillbaka till listan](/index)
+### [◀️ Tillbaka till listan](/gashud)

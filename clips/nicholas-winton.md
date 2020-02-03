@@ -11,4 +11,4 @@ Här åteförenas han, ovetandes, med ett helt rum av av människor han räddade
 
 {% include youtubePlayer.html id=page.id1 %}
 
-### [Tillbaka till listan](/index)
+### [◀️ Tillbaka till listan](/gashud)
