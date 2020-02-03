@@ -17,3 +17,5 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 [5. Dancing on my own](clips/dancing-on-my-own.md)
 
 [6. A message for humanity](clips/a-message-for-humanity.md)
+
+[7. Hemvändande soldater](clips/soldier-homecoming.md)
