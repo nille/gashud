@@ -7,3 +7,5 @@ id1: uaWA2GbcnJU
 Tydligen går det att gråta till en thailändsk reklamfilm för livförskäkringar också?!
 
 {% include youtubePlayer.html id=page.id1 %}
+
+### [Tillbaka till listan](/index)

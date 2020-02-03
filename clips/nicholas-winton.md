@@ -10,3 +10,5 @@ Här åteförenas han, ovetandes, med ett helt rum av av människor han räddade
 [Wikipedia](https://sv.wikipedia.org/wiki/Nicholas_Winton)
 
 {% include youtubePlayer.html id=page.id1 %}
+
+### [Tillbaka till listan](/index)

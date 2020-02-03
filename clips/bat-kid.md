@@ -17,3 +17,5 @@ During his treatments Miles was "fascinated with superheroes. They were crimefig
 {% include youtubePlayer.html id=page.id2 %}
 
 [Idag är han friskförklarad.](https://twitter.com/CBSEveningNews/status/1062860135662530560)
+
+### [Tillbaka till listan](/index)
