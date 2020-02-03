@@ -6,8 +6,6 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 
 #### Enjoy!
 
-[0. Kama muta](misc/kama-muta.md)
-
 [1. Batkid](clips/bat-kid.md)
 
 [2. Nicholas Winton](clips/nicholas-winton.md)
@@ -17,3 +15,5 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 [4. Hallelujah](clips/hallelujah.md)
 
 [5. Dancing on my own](clips/dancing-on-my-own.md)
+
+[6. A message for humanity](clips/a-message-for-humanity.md)
