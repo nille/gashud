@@ -6,6 +6,6 @@ Här nedan finner ni de klipp jag rotat fram tillsammans med en kort beskrivning
 
 #### Enjoy!
 
-[0. Kama muta](clips/template.md)
+[0. Kama muta](misc/kama-muta.md)
 
 [1. Batkid](clips/bat-kid.md)
