@@ -1,3 +1,7 @@
+---
+id1: JMUw4Ndpbdw
+id2: Gw3aWPxtpfE
+---
 # Batkid
 
 Miles Scott is a cancer survivor from Tulelake, in northern California near the border of Oregon. He was diagnosed with lymphoblastic leukemia – a form of leukemia, or cancer of the white blood cells characterized by excess lymphoblasts – at 18 months old.
@@ -8,8 +12,8 @@ During his treatments Miles was "fascinated with superheroes. They were crimefig
 
 [Wikipedia](https://en.wikipedia.org/wiki/Batkid)
 
-{% include youtubePlayer.html id=JMUw4Ndpbdw %}
+{% include youtubePlayer.html id=page.id1 %}
 
-{% include youtubePlayer.html id=Gw3aWPxtpfE %}
+{% include youtubePlayer.html id=page.id2 %}
 
-[Idag är han friskförklarad](https://twitter.com/CBSEveningNews/status/1062860135662530560)
+[Idag är han friskförklarad.](https://twitter.com/CBSEveningNews/status/1062860135662530560)
