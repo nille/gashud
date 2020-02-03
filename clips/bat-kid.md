@@ -8,8 +8,8 @@ During his treatments Miles was "fascinated with superheroes. They were crimefig
 
 [Wikipedia](https://en.wikipedia.org/wiki/Batkid)
 
-{% include youtubePlayer.html id=page.JMUw4Ndpbdw %}
+{% include youtubePlayer.html id=JMUw4Ndpbdw %}
 
-{% include youtubePlayer.html id=page.Gw3aWPxtpfE %}
+{% include youtubePlayer.html id=Gw3aWPxtpfE %}
 
 [Idag är han friskförklarad](https://twitter.com/CBSEveningNews/status/1062860135662530560)
